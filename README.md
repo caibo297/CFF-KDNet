@@ -8,6 +8,12 @@ If you are interested in our work, please do not hesitate to contact us at 76549
 ![Alt text for image](./over.png)
 <!-- ## This paper is reviewed at ESWA  -->
 
+## 🔆 News
+
+
+[17.9.2025] We have released the code and model checkpoints for CFF-KDNet !
+
+
 ## 🕳 Performance
 
 <!-- | Model | Backbone | CAMO (S_α/Fβω/MAE/Eξ) | COD10K (Sm/Fβω/MAE/Eξ) | NC4K (Sm/Fβω/MAE/Eξ) |
