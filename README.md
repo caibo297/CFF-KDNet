@@ -80,7 +80,7 @@ We give the pred training weights of our CFF-KDNet model in COD tasks.
 
 Note that you should use the relevant network in the lib_initial file to test these .pth files -->
 
-CFF-KDNet-weights (PVT/ResNet/Res2Net) [here]([[https://markdownlivepreview.com/](https://drive.google.com/drive/folders/1U_Oi-NZ9HuMFtbsNrEH3dG_oA333IBMm?usp=drive_link)
+CFF-KDNet-weights (PVT/ResNet/Res2Net) [here](https://drive.google.com/drive/folders/1U_Oi-NZ9HuMFtbsNrEH3dG_oA333IBMm?usp=drive_link).
 
 ## 🗂 Citation
 If you use CFF-KDNet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
