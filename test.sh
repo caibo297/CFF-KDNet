@@ -1,2 +1,0 @@
-#python eval_only.py --config configs/icod_train.py --model-name MCDNet_PVTB4 --evaluate --load-from state_final.pth
-python eval_only.py --config configs/icod_train.py --model-name MCDNet_PVTB4 --evaluate --load-from best_b4.pth
