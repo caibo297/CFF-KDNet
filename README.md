@@ -5,7 +5,7 @@ Our work has been reviewed for ESWA. The code has already been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at 765499227@qq.com via email.
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+#![This is an alt text.](/image/sample.webp "This is a sample image.")
 <!-- ## This paper is reviewed at ESWA  -->
 
 ## 🕳 Performance
@@ -80,7 +80,7 @@ We give the pred training weights of our CFF-KDNet model in COD tasks.
 
 Note that you should use the relevant network in the lib_initial file to test these .pth files -->
 
-CFF-KDNet-weights (PVT/ResNet/Res2Net) [here]([https://markdownlivepreview.com/](https://drive.google.com/drive/folders/1U_Oi-NZ9HuMFtbsNrEH3dG_oA333IBMm?usp=drive_link))
+CFF-KDNet-weights (PVT/ResNet/Res2Net) [here]([https://markdownlivepreview.com/](https://drive.google.com/drive/folders/1U_Oi-NZ9HuMFtbsNrEH3dG_oA333IBMm?usp=drive_link)
 
 ## 🗂 Citation
 If you use CFF-KDNet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
