@@ -5,7 +5,7 @@ Our work has been reviewed for ESWA. The code has already been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at 765499227@qq.com via email.
 
-(/overview.png "This is a sample image.")
+![Alt text for image](./overview.png)
 <!-- ## This paper is reviewed at ESWA  -->
 
 ## 🕳 Performance
