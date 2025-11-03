@@ -1,7 +1,7 @@
 # CFF-KDNet: Cross-Scale Feature Fusion Network with Knowledge Distillation for Camouflaged Object Detection
 Authors: Bo Cai, Houjie Li, Yanping Yang, Jin Yan
 
-Our work has been reviewed for ESWA. The code has already been open sourced.
+Our work has been accepted by ESWA. The code has already been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at 765499227@qq.com via email.
 
@@ -12,7 +12,7 @@ If you are interested in our work, please do not hesitate to contact us at 76549
 
 
 [17.9.2025] We have released the code and model checkpoints for CFF-KDNet !
-
+[27.10.2025] CFF-KDNet has beenaccepted by ESWA !
 
 ## 🕳 Performance
 
