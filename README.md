@@ -13,7 +13,7 @@ If you are interested in our work, please do not hesitate to contact us at 76549
 
 [17.9.2025] We have released the code and model checkpoints for CFF-KDNet !
 
-[27.10.2025] CFF-KDNet has beenaccepted by ESWA !
+[27.10.2025] CFF-KDNet has been accepted by ESWA !
 
 ## 🕳 Performance
 
