@@ -92,7 +92,17 @@ CFF-KDNet-weights (PVT/SMT/Res2Net) [here](https://drive.google.com/drive/folder
 ## 🗂 Citation
 If you use CFF-KDNet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
 ```
-
+@article{Cai2026CFFKDNet,
+  title={CFF-KDNet: Cross-scale feature fusion network with knowledge distillation for camouflaged object detection},
+  author={Bo Cai and Houjie Li and Yanping Yang and Jin Yan},
+  journal={Expert Systems with Applications},
+  volume={299},
+  number={C},
+  pages={130209},
+  year={2026},
+  month={Mar},
+  doi={10.1016/j.eswa.2025.130209}
+}
 ```
 <!-- 
 ## Images
